@@ -1,7 +1,7 @@
 
 # 🔗 Actor Co-occurrence Link Prediction
 
-This project addresses the problem of **predicting missing links** in an actor co-occurrence network using **Graph Neural Networks (GNNs)**, **Node2Vec embeddings**, and **graph-theoretic features**. The network is constructed from Wikipedia page co-occurrences of actors, and the task is to reconstruct randomly deleted edges from the graph.
+This project addresses the problem of **predicting missing links** (edges) in an actor co-occurrence network using **Graph Neural Networks (GNNs)**, **Node2Vec embeddings**, and **graph-theoretic features**. The network is constructed from Wikipedia page co-occurrences of actors, and the task is to reconstruct randomly deleted edges from the graph.
 
 ## 📌 Problem Statement
 
